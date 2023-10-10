@@ -8,7 +8,7 @@ public class Calculadora {
         char operador;
 
         System.out.print("Ingrese el primer número: ");
-        numero1 = scanner.nextDouble();
+        num1 = scanner.nextDouble();
 
         System.out.print("Ingrese el operador (+, -, *, /): ");
         operador = scanner.next().charAt(0);
