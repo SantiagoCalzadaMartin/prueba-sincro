@@ -1,7 +1,15 @@
 package main;
 import java.util.Scanner;
 
+/**
+ * class ejerciciopractica3
+ * @author santi
+ */
 public class Calculadora {
+	/**
+	 * Este es el metodo de entrada del programa
+	 * @param args
+	 */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double nume1, num2, resultado;
